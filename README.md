@@ -21,7 +21,7 @@
 
 <li>
   
-[![Octavio Scabino](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/octavioscabino)
+[![Octavio Scabino](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/octavioscavino)
 
 </li>
 <li>
