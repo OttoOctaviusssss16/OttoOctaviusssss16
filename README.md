@@ -12,7 +12,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 # Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=OttoOctaviusssss16&theme=radical)]
+![trophy](https://github-profile-trophy.vercel.app/?username=OttoOctaviusssss16&theme=radical)
 # Contactos 📫
 <ul>
   
