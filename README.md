@@ -11,6 +11,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+# Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=OttoOctaviusssss16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 # Contactos 📫
 <ul>
   
