@@ -30,7 +30,3 @@
 
 </li>
 </ul>
-
-![Octavios's GitHub stats](https://github-readme-stats.vercel.app/api?username=OttoOctaviusssss16&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OttoOctaviusssss16&hide_progress=true&theme=synthwave)
