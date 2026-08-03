@@ -1,7 +1,7 @@
 # Octavio Scabino
-💻 Estudiante de 3° Año de Bachillerato Tecnológico
+💻 Estudiante de 1° Año de Ingeniería en Computación
 
-🏫 Polo Tecnológico Durazno
+🏫 Facultad de Ingeniería Udelar
 
 
 # Tecnologías en uso
